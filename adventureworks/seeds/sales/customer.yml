@@ -3,7 +3,7 @@ version: 2
 seeds: 
   - name: customer
     config: 
-      schema: sales
+      schema: raw
       column_types: 
         customerid: integer
         personid: integer

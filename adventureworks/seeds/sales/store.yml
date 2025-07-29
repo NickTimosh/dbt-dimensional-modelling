@@ -3,7 +3,7 @@ version: 2
 seeds: 
   - name: store
     config: 
-      schema: sales
+      schema: raw
       column_types: 
         businessentityid: integer
         storename: varchar

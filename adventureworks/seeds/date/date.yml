@@ -3,7 +3,7 @@ version: 2
 seeds: 
   - name: date
     config: 
-      schema: date
+      schema: raw
       column_types: 
         date_day: date
         prior_date_day: date
